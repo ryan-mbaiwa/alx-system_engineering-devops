@@ -2,3 +2,4 @@
 1-who_am_i SCRIPT TO SHOW EFFECTIVE CURRENT USER
 2-groups prints all the groups the user is part of
 3-new_owner changes the file owner to betty
+4-empty creates an empty file named hello
